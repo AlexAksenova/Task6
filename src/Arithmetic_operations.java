@@ -12,7 +12,7 @@ public class Arithmetic_operations {
         System.out.println("Среднее = "+ average);
         int del;
         del= average/2;
-        System.out.println("Деление без остатка: " + del+" ");
+        System.out.println("Деление без остатка: "+del);
         if (del>3){
         System.out.println("Программа выполнена корректно");
         }
